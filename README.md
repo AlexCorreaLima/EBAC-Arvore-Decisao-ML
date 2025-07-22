@@ -44,13 +44,15 @@ Construir e avaliar modelos de árvore de decisão para classificar clientes com
 
 ## 📁 Estrutura do Repositório
 
+```text
 /EBAC-Arvore-Decisao-ML
 │
-├── notebooks/ # Notebooks com o passo a passo e análises
-├── data/ # Bases de dados utilizadas
-├── src/ # Scripts em Python para modelagem
-├── README.md # Documentação do projeto
-└── requirements.txt # Dependências necessária
+├── notebooks/          # Notebooks com o passo a passo e análises
+├── data/               # Bases de dados utilizadas
+├── src/                # Scripts em Python para modelagem
+├── README.md           # Documentação do projeto
+└── requirements.txt    # Dependências necessárias
+
 
 
 ---
