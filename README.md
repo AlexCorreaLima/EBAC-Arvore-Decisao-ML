@@ -43,6 +43,7 @@ Construir e avaliar modelos de árvore de decisão para classificar clientes com
 ---
 
 ## 📁 Estrutura do Repositório
+
 /EBAC-Arvore-Decisao-ML
 │
 ├── notebooks/ # Notebooks com o passo a passo e análises
