@@ -53,8 +53,6 @@ Construir e avaliar modelos de árvore de decisão para classificar clientes com
 ├── README.md           # Documentação do projeto
 └── requirements.txt    # Dependências necessárias
 
-
-
 ---
 
 ## 💻 Como executar
